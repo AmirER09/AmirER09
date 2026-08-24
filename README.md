@@ -37,7 +37,7 @@
 
 ## 🚀 What I'm Working On
 
-`text
+
 🐍 Python
    └── Django
         ├── Backend Development
